@@ -6,7 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+ionic-react-login
+/ionic-react-login
 node_modules
 dist
 dist-ssr
